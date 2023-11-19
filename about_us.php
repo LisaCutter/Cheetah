@@ -5,7 +5,6 @@
  * CC-BY License - http://creativecommons.org/licenses/by/3.0/
  */
 
- 
 require_once( 'inc/header.inc.php' );
 require_once( CH_DIRECTORY_PATH_INC . 'design.inc.php' );
 
